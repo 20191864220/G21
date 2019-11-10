@@ -5,7 +5,7 @@ int main()
  long i=0;
 	int sign=1;
 	double pi=0.0,n=1,term=1.0;
-	while(fabs(term)>=1e-8)//    1e-6 运行次数 : 500000      1e-8 运行次数 : 5000000
+	while(fabs(term)>=1e-8)//    1e-6 运行次数:500000    1e-8 运行次数:50000000
 	{
 
 		pi=pi+term;
