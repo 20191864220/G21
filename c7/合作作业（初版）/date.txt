@@ -1,0 +1,15 @@
+ID: 101  小李      Total: 882.0	 Average: 88.2
+Subject1: 111.0  Subject2: 90.0  Subject3: 99.0  Subject4: 120.0  Subject5: 90.0
+Subject6: 66.0  Subject7: 76.0  Subject8: 19.0  Subject9: 100.0  Subject10: 111.0
+ID: 102  小吕      Total: 864.0	 Average: 86.4
+Subject1: 112.0  Subject2: 80.0  Subject3: 90.0  Subject4: 110.0  Subject5: 99.0
+Subject6: 67.0  Subject7: 86.0  Subject8: 18.0  Subject9: 90.0  Subject10: 112.0
+ID: 103  小杨      Total: 856.0	 Average: 85.6
+Subject1: 113.0  Subject2: 70.0  Subject3: 80.0  Subject4: 130.0  Subject5: 97.0
+Subject6: 65.0  Subject7: 69.0  Subject8: 19.0  Subject9: 100.0  Subject10: 113.0
+ID: 104  小张      Total: 886.0	 Average: 88.6
+Subject1: 114.0  Subject2: 60.0  Subject3: 98.0  Subject4: 140.0  Subject5: 96.0
+Subject6: 68.0  Subject7: 78.0  Subject8: 18.0  Subject9: 100.0  Subject10: 114.0
+Average scores of all students:
+Subject1: 112.5  Subject2: 75.0  Subject3: 91.8  Subject4: 125.0  Subject5: 95.5
+Subject6: 66.5  Subject7: 77.3  Subject8: 18.5  Subject9: 97.5  Subject10: 112.5
